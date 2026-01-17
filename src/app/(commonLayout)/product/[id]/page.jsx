@@ -60,9 +60,7 @@ const ProductDetails = () => {
                   alt={product.name} 
                   className="w-full h-auto object-cover aspect-[4/3] group-hover:scale-105 transition-transform"
                 />
-                <div className="absolute top-4 left-4 bg-emerald-600 text-white px-4 py-1 rounded-full text-xs font-bold shadow">
-                  {product.inStock ? "In Stock" : "Out of Stock"}
-                </div>
+                
               </div>
 
               {/* --- Image previews --- */}
@@ -92,7 +90,7 @@ const ProductDetails = () => {
             </div>
 
             <div className="mb-8">
-              <span className="text-4xl font-black text-emerald-600">৳{product.price}</span>
+              <span className="text-4xl font-black text-emerald-600">${product.price}</span>
             </div>
 
             <p className="text-slate-500 text-lg leading-relaxed mb-10 border-l-4 border-emerald-100 pl-6">{product.description}</p>
