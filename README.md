@@ -1,36 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+               ----------------About Green Hub -----------------
 
-## Getting Started
+Green Hub is a modern, eco-friendly web platform designed to promote sustainable living and environmental awareness. The main purpose of the website is to connect people with nature by providing easy access to plants, gardening tools, and organic products, while encouraging a greener lifestyle.
 
-First, run the development server:
+The website features a well-structured and visually appealing Landing Page that highlights Green Hub’s mission, core values, and key services. Through multiple informative sections, visitors can clearly understand the importance of greenery, gardening, and environmentally responsible choices.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Green Hub offers a dedicated Products/Items section where users can explore a variety of plants, seedlings, gardening supplies, and organic fertilizers. Each product is displayed using a clean product card design that includes the product name, category, price, image, and a short description. This structured layout helps users quickly compare and choose products based on their needs.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The platform also includes a simple Authentication system with a mock login feature. This allows authorized users or administrators to access protected pages, such as product management or dashboard sections. The authentication flow is kept lightweight and user-friendly to ensure smooth navigation.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Technically, the Green Hub website is built using Next.js (App Router) and other modern web technologies, ensuring fast performance, server-side rendering, and a smooth user experience. The website is fully responsive, meaning it works seamlessly across desktops, tablets, and mobile devices.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Overall, Green Hub serves as a reliable digital hub for plant lovers, gardeners, and environmentally conscious users. By combining clean design, modern technology, and a strong environmental message, the website supports the vision of building a greener and more sustainable future.
